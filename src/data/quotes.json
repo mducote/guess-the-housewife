@@ -1,0 +1,433 @@
+[
+  {
+    "id": 1,
+    "housewife": "Shereé Whitfield",
+    "quote": "Who gon' check me, boo?",
+    "city": "Atlanta",
+    "season": 2,
+    "tenorId": "5209302"
+  },
+  {
+    "id": 2,
+    "housewife": "Teresa Giudice",
+    "quote": "Prostitution whore!",
+    "city": "New Jersey",
+    "season": 2,
+    "tenorId": "12533427"
+  },
+  {
+    "id": 3,
+    "housewife": "Luann de Lesseps",
+    "quote": "Be cool. Don't be all, like, uncool.",
+    "city": "New York",
+    "season": 7,
+    "tenorId": "5070671"
+  },
+  {
+    "id": 4,
+    "housewife": "Luann de Lesseps",
+    "quote": "Even Louis Vuitton makes mistakes.",
+    "city": "New York",
+    "season": 4,
+    "tenorId": "21244196"
+  },
+  {
+    "id": 5,
+    "housewife": "Dorinda Medley",
+    "quote": "I made it nice!",
+    "city": "New York",
+    "season": 8,
+    "tenorId": "12485499"
+  },
+  {
+    "id": 6,
+    "housewife": "Kim Richards",
+    "quote": "Why don't you have a piece of bread and butter?",
+    "city": "Beverly Hills",
+    "season": 5,
+    "tenorId": "19322529"
+  },
+  {
+    "id": 7,
+    "housewife": "Sutton Stracke",
+    "quote": "Name 'em!",
+    "city": "Beverly Hills",
+    "season": 13,
+    "tenorId": "14679553439695272858"
+  },
+  {
+    "id": 8,
+    "housewife": "Lisa Barlow",
+    "quote": "Hi, Baby Gorgeous!",
+    "city": "Salt Lake City",
+    "season": 2,
+    "tenorId": "24943700"
+  },
+  {
+    "id": 9,
+    "housewife": "Luann de Lesseps",
+    "quote": "Money can't buy you class.",
+    "city": "New York",
+    "season": 3,
+    "tenorId": "17656959"
+  },
+  {
+    "id": 10,
+    "housewife": "Dorinda Medley",
+    "quote": "I'll tell you how I'm doing... not well, bitch!",
+    "city": "New York",
+    "season": 9,
+    "tenorId": "16726894"
+  },
+  {
+    "id": 11,
+    "housewife": "Kim Richards",
+    "quote": "You stole my goddamn house!",
+    "city": "Beverly Hills",
+    "season": 1,
+    "tenorId": "15003221"
+  },
+  {
+    "id": 12,
+    "housewife": "Kandi Burruss",
+    "quote": "Bitch I'm worldwide!",
+    "city": "Atlanta",
+    "season": 14,
+    "tenorId": "3924189064312723845"
+  },
+  {
+    "id": 13,
+    "housewife": "Nene Leakes",
+    "quote": "Bye wig!",
+    "city": "Atlanta",
+    "season": 3,
+    "tenorId": "3992238"
+  },
+  {
+    "id": 14,
+    "housewife": "Dorit Kemsley",
+    "quote": "Camille you stupid cunt!",
+    "city": "Beverly Hills",
+    "season": 8,
+    "tenorId": "13461799"
+  },
+  {
+    "id": 15,
+    "housewife": "Kim Zolciak",
+    "quote": "Don't Be Tardy for the Party",
+    "city": "Atlanta",
+    "season": 2,
+    "tenorId": "17829752"
+  },
+  {
+    "id": 16,
+    "housewife": "Sonja Morgan",
+    "quote": "YOU DON'T TOUCH THE FUCKING MORGAN LETTERS!",
+    "city": "New York",
+    "season": 11,
+    "tenorId": "13370806"
+  },
+  {
+    "id": 17,
+    "housewife": "Bethenny Frankel",
+    "quote": "Go to sleep!",
+    "city": "New York",
+    "season": 3,
+    "tenorId": "1539031218093348168"
+  },
+  {
+    "id": 18,
+    "housewife": "LeeAnne Locken",
+    "quote": "Her husband gets his dick sucked at The Round Up. I know the boys who did it.",
+    "city": "Dallas",
+    "season": 2,
+    "tenorId": "17747556"
+  },
+  {
+    "id": 19,
+    "housewife": "Allison Dubois",
+    "quote": "He will never emotionally fulfill you.",
+    "city": "Beverly Hills",
+    "season": 1,
+    "tenorId": "4075080620598018410"
+  },
+  {
+    "id": 20,
+    "housewife": "Kathy Hilton",
+    "quote": "Homeless, not toothless",
+    "city": "Beverly Hills",
+    "season": 11,
+    "tenorId": "5708745133174328637"
+  },
+  {
+    "id": 21,
+    "housewife": "Taylor Armstrong",
+    "quote": "Enough!",
+    "city": "Beverly Hills",
+    "season": 1,
+    "tenorId": "9908010"
+  },
+  {
+    "id": 22,
+    "housewife": "Vicki Gunvalson",
+    "quote": "I'm being nailed to the cross like Jesus was and he did nothing wrong!",
+    "city": "Orange County",
+    "season": 10,
+    "tenorId": "17640835"
+  },
+  {
+    "id": 23,
+    "housewife": "Nene Leakes",
+    "quote": "I said what I said.",
+    "city": "Atlanta",
+    "season": 6,
+    "tenorId": "16456054"
+  },
+  {
+    "id": 24,
+    "housewife": "Bethenny Frankel",
+    "quote": "It's about Tom.",
+    "city": "New York",
+    "season": 8,
+    "tenorId": "19224516"
+  },
+  {
+    "id": 25,
+    "housewife": "Shannon Storms Beador",
+    "quote": "It was youuuuuuuuu!",
+    "city": "Orange County",
+    "season": 11,
+    "tenorId": "651154174785675718"
+  },
+  {
+    "id": 26,
+    "housewife": "Luann de Lesseps",
+    "quote": "I've been traveling, I've been to prison",
+    "city": "New York",
+    "season": 10,
+    "tenorId": "26744888"
+  },
+  {
+    "id": 27,
+    "housewife": "Sutton Stracke",
+    "quote": "Jealous of what? Your ugly leather pants?",
+    "city": "Beverly Hills",
+    "season": 11,
+    "tenorId": "23072539"
+  },
+  {
+    "id": 28,
+    "housewife": "Shereé Whitfield",
+    "quote": "Joggers",
+    "city": "Atlanta",
+    "season": 10,
+    "tenorId": "17649433"
+  },
+  {
+    "id": 29,
+    "housewife": "Dorinda Medley",
+    "quote": "JOVANI! Thank you Jovani!",
+    "city": "New York",
+    "season": 10,
+    "tenorId": "6183533372496780336"
+  },
+  {
+    "id": 30,
+    "housewife": "Caroline Manzo",
+    "quote": "Let me tell you something about my family, we are as thick as thieves",
+    "city": "New Jersey",
+    "season": 1,
+    "tenorId": "12297405"
+  },
+  {
+    "id": 31,
+    "housewife": "Bethenny Frankel",
+    "quote": "Life is not a cabaret!",
+    "city": "New York",
+    "season": 11,
+    "tenorId": "14330800"
+  },
+  {
+    "id": 32,
+    "housewife": "Mary Cosby",
+    "quote": "You can go, Little girl!",
+    "city": "Salt Lake City",
+    "season": 2,
+    "tenorId": "24312081"
+  },
+  {
+    "id": 33,
+    "housewife": "Lisa Barlow",
+    "quote": "Meredith can go fuck herself, I'm done with her. Cause I'm not a fucking whore and I don't cheat on my husband. Her and her dumb fucking family that poses. Why don't you own a house? Oh wait you can't, cause your husband changes jobs every five minutes. Meredith is a piece of fucking shit. I had your back and I'm offended by that. Fuck you. That fucking piece of shit garbage whore. I fucking hate her. She's a whore. She fucked half of New York. She can go fuck herself.",
+    "city": "Salt Lake City",
+    "season": 2,
+    "tenorId": "25188538"
+  },
+  {
+    "id": 34,
+    "housewife": "Candiace Dillard Bassett",
+    "quote": "Not today Satan! Not today neck! Not today ankles!",
+    "city": "Potomac",
+    "season": 7,
+    "tenorId": "10912462577070956336"
+  },
+  {
+    "id": 35,
+    "housewife": "Alex McCord",
+    "quote": "She is a thug in a cocktail dress.",
+    "city": "New York",
+    "season": 4,
+    "tenorId": "11807603"
+  },
+  {
+    "id": 36,
+    "housewife": "Tamra Judge",
+    "quote": "THAT'S MY OPINION!!!!!!",
+    "city": "Orange County",
+    "season": 9,
+    "tenorId": "13459632"
+  },
+  {
+    "id": 37,
+    "housewife": "Camille Grammer (Meyer)",
+    "quote": "The Morally Corrupt Faye Resnick",
+    "city": "Beverly Hills",
+    "season": 1,
+    "tenorId": "5119034"
+  },
+  {
+    "id": 38,
+    "housewife": "LeeAnne Locken",
+    "quote": "They're just hands, but they work quite well.",
+    "city": "Dallas",
+    "season": 2,
+    "tenorId": "16111864"
+  },
+  {
+    "id": 39,
+    "housewife": "Shannon Storms Beador",
+    "quote": "This isn't my plate you fucking bitch!",
+    "city": "Orange County",
+    "season": 12,
+    "tenorId": "12599061"
+  },
+  {
+    "id": 40,
+    "housewife": "Erika Jayne",
+    "quote": "Tom's house was broken into and he confronted the burglar and then he had to go have eye surgery and then my son had to go over and help, and then my son, he rolled his car five times on the way home, so yeah, I'm under a lot of stress.",
+    "city": "Beverly Hills",
+    "season": 11,
+    "tenorId": "23186779"
+  },
+  {
+    "id": 41,
+    "housewife": "Ramona Singer",
+    "quote": "Turtle time!",
+    "city": "New York",
+    "season": 3,
+    "tenorId": "11577540"
+  },
+  {
+    "id": 42,
+    "housewife": "Lisa Rinna",
+    "quote": "Were people doing coke in your bathroom?",
+    "city": "Beverly Hills",
+    "season": 7,
+    "tenorId": "8568218"
+  },
+  {
+    "id": 43,
+    "housewife": "Dorinda Medley",
+    "quote": "Why don't you put an E-Z pass on that vagina with your Holland Tunnel?",
+    "city": "New York",
+    "season": 9,
+    "tenorId": "13365776"
+  },
+  {
+    "id": 44,
+    "housewife": "Alexis Bellino",
+    "quote": "I had to go on Xanax for it Lydia!",
+    "city": "Orange County",
+    "season": 8,
+    "tenorId": "4870483"
+  },
+  {
+    "id": 45,
+    "housewife": "Tinsley Mortimer",
+    "quote": "Yeah, I'm drinking, Luann",
+    "city": "New York",
+    "season": 11,
+    "tenorId": "14376417"
+  },
+  {
+    "id": 46,
+    "housewife": "Alex McCord",
+    "quote": "You are a mean girl and you are in high school.",
+    "city": "New York",
+    "season": 3,
+    "tenorId": "12460434"
+  },
+  {
+    "id": 47,
+    "housewife": "Porsha Williams",
+    "quote": "You are a slut from the 90s!",
+    "city": "Atlanta",
+    "season": 6,
+    "tenorId": "20509274"
+  },
+  {
+    "id": 48,
+    "housewife": "Karen Huger",
+    "quote": "You're a broken whore from Hampton University and that's why we went to Sing Sing",
+    "city": "Potomac",
+    "season": 6,
+    "tenorId": "22430271"
+  },
+  {
+    "id": 49,
+    "housewife": "Jen Shah",
+    "quote": "You're gonna go with Mary who fucked her grandfather?!",
+    "city": "Salt Lake City",
+    "season": 1,
+    "tenorId": "19180651"
+  },
+  {
+    "id": 50,
+    "housewife": "Heather Gay",
+    "quote": "Receipts! Proof! Timeline! Screenshots!",
+    "city": "Salt Lake City",
+    "season": 4,
+    "tenorId": "8029411992709563920"
+  },
+  {
+    "id": 51,
+    "housewife": "Meredith Marks",
+    "quote": "The rumors and nastiness",
+    "city": "Salt Lake City",
+    "season": 4,
+    "tenorId": "14749396894596425308"
+  },
+  {
+    "id": 52,
+    "housewife": "Lisa Vanderpump",
+    "quote": "Life is not all diamonds and rosé... but it should be.",
+    "city": "Beverly Hills",
+    "season": 2,
+    "tenorId": "10166659"
+  },
+  {
+    "id": 53,
+    "housewife": "Adriana de Moura",
+    "quote": "She was in a bad place. She was cheating on Martina with a Haitian Mortician. You used to take him to the motel, pay for the motel, bring the champagne, and had to give him a coffee machine as a gift!",
+    "city": "Miami",
+    "season": 7,
+    "tenorId": "24276648"
+  },
+  {
+    "id": 54,
+    "housewife": "Vicki Gunvalson",
+    "quote": "Whoop it up!",
+    "city": "Orange County",
+    "tenorId": "15433942"
+  }
+]
